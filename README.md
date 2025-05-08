@@ -4,4 +4,5 @@
 Trying to generate 2D maps of fictional worlds procedurally.
 
 Example of current result :
+
 ![Example of Result](readme_assets/result_1.png)
