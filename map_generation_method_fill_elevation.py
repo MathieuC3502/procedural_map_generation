@@ -121,7 +121,7 @@ plt.title('Map generation based on a Voronoi diagram with elevation growth from 
 plt.grid(False)
 plt.axis('off')
 #plt.show()
-plt.savefig('./Results/test.png')
+plt.savefig('C:/Users/mathi/Documents/__DOCUMENTS__/04_PERSONNEL/01_PROJETS/[PYTHON]_PROCEDURAL_MAP_GENERATION/RESULTS/test.png')
 
 end=time.time()
 print("Execution time : ",end-start)
